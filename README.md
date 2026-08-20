@@ -32,4 +32,4 @@ hei-bao-taiwan-black-bear/
 
 ## U寶長什麼樣子？
 
-![U寶 spritesheet 預覽](./preview.png)
+![U寶在 Codex 裡的樣子](./preview.png)
