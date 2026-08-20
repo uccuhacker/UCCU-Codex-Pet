@@ -29,3 +29,7 @@ hei-bao-taiwan-black-bear/
 ```
 
 這隻寵物使用 `spriteVersionNumber: 2`，spritesheet 尺寸為 `1536 × 2288`。
+
+## U寶長什麼樣子？
+
+![U寶 spritesheet 預覽](./preview.png)
